@@ -1,0 +1,15 @@
+.nav-color {
+  background-color: #fffef2;
+  height: 80px;
+}
+.main-nav {
+  height: 80px;
+}
+a {
+  padding: 4px;
+  font-family: Suisse Medium, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  transition: outline-offset 0.2s cubic-bezier(0.215, 0.61, 0.355, 1),
+    color 0.2s cubic-bezier(0.215, 0.61, 0.355, 1);
+}

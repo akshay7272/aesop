@@ -1,0 +1,51 @@
+.background-image {
+  background-image: url("https://www.aesop.com/u1nb1km7t5q7/51ATQtZl3wy8KBBgt4MACM/1588c8b4d7e2291b47796d3d42884f1f/Aesop_Othertopias_2023_Web_Homepage_2_Primary_Full_Bleed_Desktop_2880x1044px.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%; /* Set the width as needed */
+  height: 500px; /* Set the height as needed */
+}
+.Banner {
+  padding-top: 110px;
+  padding-bottom: 180px;
+}
+.heading-base {
+  order: 1;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  font-family: Suisse, sans-serif;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.base-heading {
+  order: 2;
+  margin-bottom: 15px;
+  font-size: 1.875rem;
+}
+.Banner-content {
+  color: #fffef2;
+  display: flex;
+  flex-basis: auto;
+  margin-right: auto;
+  margin-left: 16.6666666667%;
+}
+.paragraph-div {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 0 0 30px;
+  white-space: pre-wrap;
+}
+.LinkButtonGroup {
+  width: calc(100% - 1px);
+  margin-right: 0;
+  margin-left: 0;
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+  font-family: Suisse, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.Hyperlink_base {
+  border: 1px solid #fffef2;
+}
